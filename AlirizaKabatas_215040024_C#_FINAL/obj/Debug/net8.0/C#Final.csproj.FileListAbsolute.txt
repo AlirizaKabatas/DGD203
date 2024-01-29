@@ -1,0 +1,14 @@
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.AssemblyInfoInputs.cache
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.AssemblyInfo.cs
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.csproj.CoreCompileInputs.cache
+C:\Users\aliri\source\repos\C#Final\bin\Debug\net8.0\C#Final.exe
+C:\Users\aliri\source\repos\C#Final\bin\Debug\net8.0\C#Final.deps.json
+C:\Users\aliri\source\repos\C#Final\bin\Debug\net8.0\C#Final.runtimeconfig.json
+C:\Users\aliri\source\repos\C#Final\bin\Debug\net8.0\C#Final.dll
+C:\Users\aliri\source\repos\C#Final\bin\Debug\net8.0\C#Final.pdb
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.dll
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\refint\C#Final.dll
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.pdb
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\C#Final.genruntimeconfig.cache
+C:\Users\aliri\source\repos\C#Final\obj\Debug\net8.0\ref\C#Final.dll
